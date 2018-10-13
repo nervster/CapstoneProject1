@@ -11,4 +11,4 @@ Jupyter Notebooks:
   
 Other Documentation:
   1. Analysis of Home Credit Group’s Credit Default Risk: Report on the methodology, steps, and other interesting information I have found
-  2. Capstonepresentation1.pptx: Presentation for the report
+  2. Capstonepresentation1.pptx: Presentation to provide a quick overview of the project
